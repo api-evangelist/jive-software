@@ -1,0 +1,102 @@
+{
+    "name": "Jive Software",
+    "description": "Jive was headquartered in Palo Alto, California. Founded in 2001, Jive maintains additional offices in Portland, OR; San Francisco, CA; New York, NY; Toronto, Ontario, Canada; Reading, UK; Frankfurt, Germany; S\u00e3o Paulo, Brazil; Tel Aviv, Israel; Melbou...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1541-jive-software.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "social",
+        "webhook implementations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/jive-software\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Jive Software",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1541-jive-software.jpg",
+            "humanURL": "https:\/\/developers.jivesoftware.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/jive-software-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/jive-software-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.jivesoftware.com\/jivespace\/community\/jivetalks"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds2.feedburner.com\/JiveTalks"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/jive-software"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/jive-software"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.jivesoftware.com\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.jivesoftware.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "info.uk@jivesoftware.com"
+        },
+        {
+            "type": "Email",
+            "url": "info.france@jivesoftware.com"
+        },
+        {
+            "type": "Email",
+            "url": "meagan.busath@jivesoftware.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@jivesoftware.com"
+        },
+        {
+            "type": "Email",
+            "url": "talent.team@jivesoftware.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/jivesoftware"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/jivesoftware"
+        },
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/developers.jivesoftware.com\/api\/v3\/cloud\/rest\/WebhooksService.html"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developers.jivesoftware.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/jivesoftware.com\/"
+        }
+    ]
+}
